@@ -16,7 +16,7 @@
 
 ## Why a hiring manager should keep reading
 
-Most IAM portfolios prove someone can click through a tool. This one manages identity **as code** — version-controlled, reproducible, auditable — and documents the **design reasoning** behind each decision. It also addresses the identity problem enterprises are racing to solve now: **non-human and AI-agent identity governance**, not just the human-identity problems the field solved years ago.
+Most IAM portfolios prove someone can click through a tool. This one manages identity **as code**  version-controlled, reproducible, auditable and documents the **design reasoning** behind each decision. It also addresses the identity problem enterprises are racing to solve now: **non-human and AI-agent identity governance**, not just the human-identity problems the field solved years ago.
 
 **Build status (honest):** The Terraform + Entra foundation is built and working — remote Azure state backend plus user and group provisioning modules. Governance, federation, PAM, and compliance modules are on the roadmap below. This is an actively developed environment.
 
