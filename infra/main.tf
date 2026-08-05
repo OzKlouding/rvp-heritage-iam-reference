@@ -1,3 +1,3 @@
 module "identity" {
-  source = "./indentity"
+  source = "./identity"
 }
